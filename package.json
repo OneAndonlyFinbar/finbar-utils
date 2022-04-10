@@ -1,0 +1,9 @@
+{
+  "name": "finbar-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "keywords": ["utils", "utilities", "string-manipulation", "dates"],
+  "author": "finbar",
+  "license": "ISC"
+}
